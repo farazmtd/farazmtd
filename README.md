@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![photo_2025-09-21_02-18-34](https://github.com/user-attachments/assets/b06ad3cb-2e6e-4779-9384-9549f3238038)
+![front-end-development-minimal-infographic-banner-vector](https://github.com/user-attachments/assets/d3565466-3bcd-4aae-bfcc-f3c7641d4647)
+
 
 ## Front-End Skills
 
